@@ -209,5 +209,5 @@ def main():
         else:
             print("Operação inválida, por favor selecione novamente a operação desejada.")
 
-# Executa o programa
+# Executa o programinha
 main()
