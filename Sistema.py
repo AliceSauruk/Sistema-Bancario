@@ -365,5 +365,6 @@ def main():
         else:
             print("\n@@@ Operação inválida, por favor selecione novamente a operação desejada. @@@")
 
+# Inicia o programinha
 if __name__ == "__main__":
     main()
